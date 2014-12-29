@@ -2,7 +2,7 @@
 # Cookbook Name:: unwb
 # Recipe:: default
 #
-# Copyright 2014, Uniweb
+# Copyright (C) 2014 Coddeys
 #
 # All rights reserved - Do Not Redistribute
 #
